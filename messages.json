@@ -1,0 +1,24 @@
+{
+  "headline": "Champion Cancer Care Across Canada",
+  "subheadline": "Your monthly gift — no matter the size — brings comfort, treatment, and hope to cancer patients and their families.",
+  "updates": [
+    {
+      "id": "update-1",
+      "title": "Medication Fund Reaches $50,000",
+      "body": "Thanks to monthly donors like you, our medication assistance fund has reached $50,000 — covering treatment costs for patients who cannot afford them on their own.",
+      "date": "2026-04-01"
+    },
+    {
+      "id": "update-2",
+      "title": "New Comfort Care Kits Delivered",
+      "body": "Over 400 comfort care kits were delivered to cancer wards across three provinces, including blankets, toiletries, and activity books for long-stay patients.",
+      "date": "2026-03-15"
+    },
+    {
+      "id": "update-3",
+      "title": "Welcome, Charity Champions!",
+      "body": "Every dollar you give is tracked and reported. We believe in full transparency — you will always know exactly how your donations are helping cancer patients across Canada.",
+      "date": "2026-03-01"
+    }
+  ]
+}
